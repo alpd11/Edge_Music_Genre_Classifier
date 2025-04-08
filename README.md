@@ -42,7 +42,7 @@ The dataset comprises 200 audio files, evenly split between the two genres:
 
 These samples include a wide range of compositions, capturing the unique elements of each genre to provide a comprehensive training base for the model.
 
-**Table 1.** Train and test split of the GTZAN dataset.  
+**Table 1.** Train and test split of the dataset.  
 | Genre     | Train | Test | Total |
 |-----------|-------|------|-------|
 | Rock      | 80    | 20   | 100   |
