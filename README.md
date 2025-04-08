@@ -67,7 +67,7 @@ The parameters set for the feature generation are given below.
 A Convolutional Neural Network (CNN) based architecture was chosen for its effectiveness in handling image-like data. Given that our input features are spectrograms, CNNs are ideally suited for this task, recognizing patterns that differentiate genres (Zhang, Wang and Liu, 2019). 2D CNNs were used rather than 1D CNNs because 2D CNNs can capture both time and frequency patterns in spectrograms, whereas 1D CNNs only capture temporal patterns.
 
 **Figure 1.** CNN architecture used for music genre classification.  
-![Model Architecture](images/model_architecture.png)
+![Model Architecture](model_architecture.png)
 
 ### Training Details
 
