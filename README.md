@@ -147,7 +147,7 @@ This project could be expanded in several directions:
 
 ---
 
-**Total word count: 1,793 words**
+**Total word count: 1,350 words**
 
 ## Bibliography
 
