@@ -142,6 +142,7 @@ The Edge Music Genre Classifier meets its core goal which was to reliably distin
 Key learnings emerged from the experimentation process. Model architecture decisions were more influential on performance than the number of epochs or data augmentation strategies.
 
 This project could be expanded in several directions:
+
 •	Incorporating additional genres to build a multi-class classifier (e.g., Jazz, Pop, Hip-Hop)  
 •	Building an interactive UI or mobile companion app to visualize the genre detection in real-time  
 
