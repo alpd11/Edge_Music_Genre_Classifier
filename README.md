@@ -1,5 +1,8 @@
 # Edge Music Genre Classifier: Rock vs Classical
 
+Edge Impulse Project Page: https://studio.edgeimpulse.com/public/656112/live
+Github Repo: https://github.com/alpd11/Edge_Music_Genre_Classifier
+
 ## Introduction
 
 The Edge Music Genre Classifier is an application designed to utilize embedded machine learning to accurately distinguish between Rock and Classical music genres. This project enables the development and deployment of a music genre classification model directly onto embedded devices, providing real-time music genre identification without the need for continuous internet connectivity.
