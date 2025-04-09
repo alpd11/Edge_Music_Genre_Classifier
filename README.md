@@ -1,6 +1,7 @@
 # Edge Music Genre Classifier: Rock vs Classical
 
 Edge Impulse Project Page: https://studio.edgeimpulse.com/public/656112/live
+
 Github Repo: https://github.com/alpd11/Edge_Music_Genre_Classifier
 
 ## Introduction
